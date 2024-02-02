@@ -1,0 +1,25 @@
+.icon-list{
+  font-size: 30px;
+  margin-right: 20px;
+  color: #918E9B;
+  background-color: transparent;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+}
+
+.footer-details{
+    display: flex;
+    justify-content: center;
+    background-color :#161619; 
+    width: 400px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}   
+
